@@ -26,6 +26,7 @@ Save the file.
 Run the Python script by executing it in the terminal:
 
 bash: python word_transform.py
+
 The script will execute with default arguments: begin_word="short" and end_word="abort".
 The script will print the word transformation path from the specified starting word to the ending word if it exists. If not, it will print "No solution."
 
